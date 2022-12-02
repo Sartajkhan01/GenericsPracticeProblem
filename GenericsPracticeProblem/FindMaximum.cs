@@ -24,7 +24,7 @@ namespace GenericsPracticeProblem
             }
             else
             {
-                Console.WriteLine("Third Value {0} is greatest of all ", thirdValue);
+                //Console.WriteLine("Third Value {0} is greatest of all ", thirdValue);
             }
 
 
